@@ -1,0 +1,11 @@
+C:\Users\chrisl\source\repos\ritoPLZ\bin\Debug\netcoreapp2.1\ritoPLZ.deps.json
+C:\Users\chrisl\source\repos\ritoPLZ\bin\Debug\netcoreapp2.1\ritoPLZ.runtimeconfig.json
+C:\Users\chrisl\source\repos\ritoPLZ\bin\Debug\netcoreapp2.1\ritoPLZ.runtimeconfig.dev.json
+c:\Users\chrisl\source\repos\ritoPLZ\bin\Debug\netcoreapp2.1\ritoPLZ.dll
+c:\Users\chrisl\source\repos\ritoPLZ\bin\Debug\netcoreapp2.1\ritoPLZ.pdb
+c:\Users\chrisl\source\repos\ritoPLZ\obj\Debug\netcoreapp2.1\ritoPLZ.csprojAssemblyReference.cache
+c:\Users\chrisl\source\repos\ritoPLZ\obj\Debug\netcoreapp2.1\ritoPLZ.csproj.CoreCompileInputs.cache
+c:\Users\chrisl\source\repos\ritoPLZ\obj\Debug\netcoreapp2.1\ritoPLZ.AssemblyInfoInputs.cache
+c:\Users\chrisl\source\repos\ritoPLZ\obj\Debug\netcoreapp2.1\ritoPLZ.AssemblyInfo.cs
+c:\Users\chrisl\source\repos\ritoPLZ\obj\Debug\netcoreapp2.1\ritoPLZ.dll
+c:\Users\chrisl\source\repos\ritoPLZ\obj\Debug\netcoreapp2.1\ritoPLZ.pdb

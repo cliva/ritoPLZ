@@ -2,7 +2,7 @@ using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace baseball{
+namespace riot{
     public class MLBApi
     {
         public MLBApi(){
