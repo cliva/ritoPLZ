@@ -1,0 +1,11 @@
+/Users/JackBruzan/Development/repos/ritoPLZ/bin/Debug/netcoreapp2.1/ritoPLZ.deps.json
+/Users/JackBruzan/Development/repos/ritoPLZ/bin/Debug/netcoreapp2.1/ritoPLZ.runtimeconfig.json
+/Users/JackBruzan/Development/repos/ritoPLZ/bin/Debug/netcoreapp2.1/ritoPLZ.runtimeconfig.dev.json
+/Users/JackBruzan/Development/repos/ritoPLZ/bin/Debug/netcoreapp2.1/ritoPLZ.dll
+/Users/JackBruzan/Development/repos/ritoPLZ/bin/Debug/netcoreapp2.1/ritoPLZ.pdb
+/Users/JackBruzan/Development/repos/ritoPLZ/obj/Debug/netcoreapp2.1/ritoPLZ.csprojAssemblyReference.cache
+/Users/JackBruzan/Development/repos/ritoPLZ/obj/Debug/netcoreapp2.1/ritoPLZ.csproj.CoreCompileInputs.cache
+/Users/JackBruzan/Development/repos/ritoPLZ/obj/Debug/netcoreapp2.1/ritoPLZ.AssemblyInfoInputs.cache
+/Users/JackBruzan/Development/repos/ritoPLZ/obj/Debug/netcoreapp2.1/ritoPLZ.AssemblyInfo.cs
+/Users/JackBruzan/Development/repos/ritoPLZ/obj/Debug/netcoreapp2.1/ritoPLZ.dll
+/Users/JackBruzan/Development/repos/ritoPLZ/obj/Debug/netcoreapp2.1/ritoPLZ.pdb
